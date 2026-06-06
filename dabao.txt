@@ -1,0 +1,10 @@
+
+
+pyinstaller -D  -w `
+--icon "favicon.ico" `
+--hidden-import PyQt5._QOpenGLFunctions_2_0 `
+--hidden-import PyQt5.QtOpenGL `
+--add-data "GUI;GUI" `
+--add-data "functions;functions" `
+--add-data "D:\MTU\py311\Lib\site-packages\live2d\v3;live2d" `
+main_program.py
