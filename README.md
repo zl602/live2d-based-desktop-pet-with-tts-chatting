@@ -1,4 +1,6 @@
 # live2d-based-desktop-pet-with-tts-chatting
+低技术力警告
+
 A desktop pet application with mouse tracking, model parameter control, and VOICEVOX-based tts chatting
 
 Here is the English translation of your program documentation:
